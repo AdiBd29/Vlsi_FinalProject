@@ -1,5 +1,5 @@
 # Vlsi_FinalProject
-Design of a 4-bit Microprocessor 
+4-bit Microprocessor 
 # Verilog Code
 The project includes Verilog code that was initially written and tested for functionality. The code was then synthesized using Design Vision, integrating the constraints and the technology libraries applicable.
 # Layout and Schematic using Innovus
